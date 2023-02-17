@@ -21,7 +21,7 @@
 		<cassandra-java-driver.version>4.15.0</cassandra-java-driver.version>
 		<cassandra-native-protocol.version>1.4.11</cassandra-native-protocol.version>
 		<springfox.version>3.0.0</springfox.version>
-		<slf4j.version>1.7.30</slf4j.version>
+		<slf4j.version>1.7.33</slf4j.version>
 		<spring-cloud.version>Hoxton.SR8</spring-cloud.version>
 		<lombok.version>1.18.12</lombok.version>
 		<maven.test.skip>true</maven.test.skip>
